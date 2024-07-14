@@ -1,2 +1,2 @@
-# hima-employeeburnout-prediction
+# hima-employee burnout-prediction
 Internship_Employee_burnout_prediction
